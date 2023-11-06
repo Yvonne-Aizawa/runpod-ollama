@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+.env
+.venv
+.swp
+dist
+ollama
+ggml-metal.metal
